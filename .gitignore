@@ -1,0 +1,15 @@
+# Secrets — never commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs (optional — you may want to commit sample logs)
+logs/*.log
+
+# IDE
+.vscode/
+.idea/
